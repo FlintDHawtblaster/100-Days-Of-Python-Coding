@@ -1,0 +1,8 @@
+food = input("Name a food > ")
+plant = input("Name a type of plant > ")
+method = input("Name a method of cooking > ")
+word = input("What word describes burned food? > ")
+doit = input("Name a DIY item > ")
+print()
+print("MENU")
+print(method, food, "with", word, plant, "on a bed of", doit )
