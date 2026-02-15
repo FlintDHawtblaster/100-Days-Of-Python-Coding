@@ -1,5 +1,6 @@
 import os, time
 from random import randint
+#Updated
 
 def rollDice(side):
     face = int(randint(1, side))
