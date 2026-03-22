@@ -1,0 +1,1 @@
+['Health potion', 'Dagger', 'Dagger', 'Health potion', 'Poison', 'Poison']
