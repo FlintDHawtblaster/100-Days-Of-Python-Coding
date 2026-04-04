@@ -1,3 +1,5 @@
+#Solution for Day 53 Challenge
+
 import os, time
 
 inventory = []
