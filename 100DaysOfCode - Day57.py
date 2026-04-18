@@ -1,3 +1,4 @@
+#Using recursion to make a factorial calculator
 #Factorial Calculator 
 def factorial(value):
     if value == 1:
