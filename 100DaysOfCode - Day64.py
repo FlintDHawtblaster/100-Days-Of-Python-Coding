@@ -1,3 +1,4 @@
+#Object-Oriented Programming in Python. Yayyy!!
 class job:
     name = None
     salary = None
