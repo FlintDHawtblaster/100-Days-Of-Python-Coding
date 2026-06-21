@@ -1,3 +1,4 @@
+# Using Object Orientation to store characters in my video game
 class character:
     name = None
     health = 100
