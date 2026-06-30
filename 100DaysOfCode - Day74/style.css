@@ -1,0 +1,33 @@
+html,
+body {
+  background-color: rgb(65, 87, 28);
+  height: 100%;
+  width: 100%;
+  color: white;
+}
+
+h1 {
+  font-style: fantasy;
+  font-weight: extra-bold;
+}
+
+h2 {
+  font-style: cursive;
+  font-size: 24px;
+}
+
+p {
+  background-color: rgb(97, 124, 50);
+  font-style: italic;
+  text-align: center;
+  padding: 20px;
+}
+
+img {
+  background-color: rgb(97, 124, 50);
+  display: block;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
