@@ -1,0 +1,37 @@
+html,
+body {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  background-color: rgb(6, 6, 46);
+  color: white;
+  padding: 20px;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+h1,
+h3 {
+  font-family: monospace;
+  font-weight: bold;
+  color: white;
+}
+
+h1 {
+  margin: 0;
+}
+
+.aboutMe {
+  font-size: 8px;
+  font-style: italic;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: green;
+  text-decoration: none;
+}
